@@ -25,11 +25,8 @@
 
 ### 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/your-link)
-- [Email](mailto:your@email.com)
+- [LinkedIn](https://www.linkedin.com/in/devansh-trivedi-a19527292/)
+- [Email](trivedidevansh1080@gmail.com)
 
 ---
 
-### ⚡ Fun Fact
-
-I believe in **learning by building** — whether it's a CLI tool or a live cricket widget 😄
