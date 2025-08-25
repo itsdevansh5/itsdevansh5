@@ -1,5 +1,8 @@
 # 👋 Hi there, I'm Devansh Trivedi
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdevansh5&theme=tokyonight)
+
+
 🎓 I'm a third-year B.Tech student at **SRM University, NCR Campus, Ghaziabad**  
 💻 I have a keen interest in **Software Development**  
 🚀 Currently exploring new technologies and building real-world projects  
