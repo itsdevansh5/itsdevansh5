@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Devansh Trivedi
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdevansh5&theme=tokyonight)
+
 
 
 🎓 I'm a third-year B.Tech student at **SRM University, NCR Campus, Ghaziabad**  
@@ -36,3 +36,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevTrivedi_4)
 
 ---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdevansh5&theme=tokyonight)
