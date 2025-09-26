@@ -6,7 +6,7 @@
 🎓 I'm a third-year B.Tech student at **SRM University, NCR Campus, Ghaziabad**  
 💻 I have a keen interest in **Software Development**  
 🚀 Currently exploring new technologies and building real-world projects  
-🌱 Learning something new every day — from **DSA** to **WebDev**
+🌱 Learning something new every day — from **DSA** ,**WebDev**,**DevOps** to **Automation**.
 
 ---
 
@@ -37,7 +37,5 @@
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdevansh5&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsdevansh5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdevansh5&theme=tokyonight)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsdevansh5)
 
