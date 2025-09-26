@@ -17,7 +17,7 @@ jobs:
         uses: Platane/snk/svg-only@v3 
         with:
           # This should be your GitHub username
-          github_user_name: ${{ itsdevansh5 }} 
+          github_user_name: ${ itsdevansh5 } 
           
           # Defines the file to output (can be customized)
           outputs: |
