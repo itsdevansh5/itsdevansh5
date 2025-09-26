@@ -25,6 +25,11 @@ Here are my GitHub activity, Top Languages used, and overall stats:
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=itsdevansh5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Devansh's GitHub Stats" />
+
+</p>
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdevansh5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Devansh's Top Languages" />
 </p>
 
 ---
