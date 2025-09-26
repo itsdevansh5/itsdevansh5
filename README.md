@@ -19,15 +19,6 @@ A third-year B.Tech student at **SRM University, NCR Campus, Ghaziabad**, with a
 
 ---
 
-### 🏆 GSSoC 2025 Contributions (Live)
-
-Check out my real-time contribution status for **GirlScript Summer of Code (GSSoC) 2025** below:
-
-[![GSSoC Badge](https://gssoc-dymanic-badges.vercel.app/api/itsdevansh5?year=2025)](https://gssoc.girlscript.tech/leaderboard?year=2025&username=itsdevansh5)
-
-*Visit the official [GSSoC 2025 leaderboard](https://gssoc.girlscript.tech/leaderboard?year=2025&username=itsdevansh5) for more insights.*
-
----
 
 ### 📊 GitHub Stats
 
@@ -35,8 +26,6 @@ Here are my GitHub activity and language stats:
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=itsdevansh5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Devansh's GitHub Stats" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdevansh5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Devansh's Top Languages" />
 </p>
 
 ---
