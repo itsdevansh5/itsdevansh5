@@ -41,6 +41,11 @@ A visually fun way to track my coding journey!
 
 ---
 
+
+[![An image of @itsdevansh5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsdevansh5)](https://holopin.io/@itsdevansh5)
+
+
+---
 ### 📫 Connect with me
 
 Feel free to connect! I'm always open to discussing new projects and opportunities.
