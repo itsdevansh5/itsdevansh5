@@ -41,6 +41,11 @@ A visually fun way to track my coding journey!
 
 ---
 
+## My Badges
+
+[![Postman Student Expert Badge](https://api.badgr.io/public/assertions/Pyn6Kw7YTJiKklkCwAJN5g/image)](https://badgr.com/public/assertions/Pyn6Kw7YTJiKklkCwAJN5g?identity__email=trivedidevansh1080@gmail.com)
+
+
 
 [![An image of @itsdevansh5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsdevansh5)](https://holopin.io/@itsdevansh5)
 
