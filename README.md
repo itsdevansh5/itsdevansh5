@@ -4,7 +4,7 @@
 
 A third-year B.Tech student at **SRM University, NCR Campus, Ghaziabad**, with a strong focus on **Software Development**. I am passionate about building real-world projects and continuously exploring new technologies.
 
-🌱 **Currently Learning:** Data Structures & Algorithms (DSA), Web Development (WebDev), DevOps, and Automation.
+🌱 **Currently Learning:** Data Structures & Algorithms (DSA), Backend Development, DevOps, and Automation.
 
 ---
 
