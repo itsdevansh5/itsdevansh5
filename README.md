@@ -25,12 +25,8 @@ A third-year B.Tech student at **SRM University, NCR Campus, Ghaziabad**, with a
 Here are my GitHub activity, Top Languages used, and overall stats:
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsdevansh5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Devansh's GitHub Stats" />
+![GitHub Stats](https://githubstats-gqcp.onrender.com/card/stats?username=itsdevansh5)
 
-</p>
-<p align ="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdevansh5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Devansh's Top Languages" />
-</p>
 
 ---
 
