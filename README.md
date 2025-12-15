@@ -40,16 +40,7 @@ A visually fun way to track my coding journey!
 
 ---
 
-## My Badges
 
-<p align="center">
-  <img src="https://api.badgr.io/public/assertions/Pyn6Kw7YTJiKklkCwAJN5g/image" alt="Postman Student Expert Badge" width="90" height="90" />
-  <img src="https://holopin.me/itsdevansh5" alt="Holopin Badges" width="270" height="270" />
-</p>
-
-
-
----
 ### 📫 Connect with me
 
 Feel free to connect! I'm always open to discussing new projects and opportunities.
