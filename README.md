@@ -26,7 +26,7 @@ Here are my GitHub activity, Top Languages used, and overall stats:
 
 
 <p align="center">
-  <img src="https://githubstats-gqcp.onrender.com/card/stats?username=itsdevansh5" alt="GitHub Stats"/>
+  <img src="https://githubstats-gqcp.onrender.com/card/stats?username=itsdevansh5?v=2" alt="GitHub Stats"/>
 </p>
 
 
