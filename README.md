@@ -1,12 +1,15 @@
-# 👋 Hi, I'm Devansh Trivedi!
+# 👋 Hi, I'm Devansh Trivedi
 
-## 🚀 Software Developer | B.Tech Student
+### Software Developer | Backend & Systems Enthusiast
 
-A third-year B.Tech student at **SRM University, NCR Campus, Ghaziabad**, with a strong focus on **Software Development**. I am passionate about building real-world projects and continuously exploring new technologies.
+I'm a third-year B.Tech student at **SRM University, NCR Campus (Ghaziabad)** with a strong interest in **algorithms, backend systems, and system-level programming**.
 
-🌱 **Currently Learning:** Data Structures & Algorithms (DSA), Backend Development, DevOps, and Automation.
+My learning approach focuses on building strong **problem-solving skills** through Data Structures & Algorithms while also exploring how real-world software systems are designed and implemented.
+
+I enjoy working on projects that combine **algorithmic reasoning with practical system development**.
 
 ---
+
 
 ### 💻 My Tech Stack
 
@@ -32,13 +35,17 @@ Here are my GitHub activity, Top Languages used, and overall stats:
 
 ---
 
-### 🐍 My GitHub Contribution Streak
+## 🧠 Coding Profiles
 
-A visually fun way to track my coding journey!
+- **Codolio:** https://codolio.com/profile/itsdevansh5  
+- **LeetCode:** https://leetcode.com/u/itsdevansh5  
+- **Codeforces:** https://codeforces.com/profile/itsdevansh5  
+- **GeeksforGeeks:** https://auth.geeksforgeeks.org/user/trivedidevmfzi
 
-![Snake animation](https://raw.githubusercontent.com/itsdevansh5/itsdevansh5/output/github-contribution-grid-snake.svg)
+I regularly practice algorithmic problem solving and have solved **500+ problems across multiple platforms**, focusing on building strong fundamentals in **data structures, algorithms, and problem-solving patterns**.
 
 ---
+
 
 
 ### 📫 Connect with me
