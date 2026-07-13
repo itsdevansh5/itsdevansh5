@@ -2,7 +2,7 @@
 
 ### Software Developer | Backend & Systems Enthusiast
 
-I'm a third-year B.Tech student at **SRM University, NCR Campus (Ghaziabad)** with a strong interest in **algorithms, backend systems, and system-level programming**.
+I'm a Final Year B.Tech student at **SRM University, NCR Campus (Ghaziabad)** with a strong interest in **algorithms, backend systems, and system-level programming**.
 
 My learning approach focuses on building strong **problem-solving skills** through Data Structures & Algorithms while also exploring how real-world software systems are designed and implemented.
 
